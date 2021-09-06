@@ -1,0 +1,24 @@
+.container-tamdid {
+  width: 25%;
+  display: flex;
+  justify-content: flex-star;
+  cursor: pointer;
+  -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  height: 80%;
+}
+
+.tamdid-items {
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+  display: block;
+  margin: 3rem;
+}
+
+.line-wrap {
+  height: 2px;
+  width: 60%;
+  background-color: #d3d3d3;
+  margin: 2rem auto;
+}
